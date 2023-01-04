@@ -45,6 +45,17 @@
 <br>
 <br>
 
+### 📌작업한 기능 설명
+<h1>1. JWT & Spring Security </h1>
+<img src=https://user-images.githubusercontent.com/115197642/210565082-70d826f1-c345-48be-a246-7565d2745ba2.png></img>
+<img src=https://user-images.githubusercontent.com/115197642/210565580-f96e97fe-438d-4951-b3c0-364d45b4364e.png></img>
+<br>
+<br>
+<h1>2. 설문조사를 위한 데이터 가공 작업</h1>
+<img src=https://user-images.githubusercontent.com/115197642/210567039-45351eb0-130f-4228-ae6e-6ab112cb6346.png></img>
+<img src=https://user-images.githubusercontent.com/115197642/210567479-ec951bd5-0c75-4a7e-8685-ab5943349ea1.png></img>
+<img src=https://user-images.githubusercontent.com/115197642/210567766-ad5138c1-0352-4cb7-87ce-11c99fe41f03.png></img>
+
 <div>
 
 ### 🛠 개발 환경
